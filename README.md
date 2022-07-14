@@ -1,10 +1,10 @@
 <!--[![](https://github.com/xmaihh/Android-Serialport/raw/master/art/logo.png)](https://code.google.com/archive/p/android-serialport-api/)-->
 
-# Android-Serialport
+# Android-alcohol-checker
 
 移植谷歌官方串口库[android-serialport-api](https://code.google.com/archive/p/android-serialport-api/)
 
-**酒精检测仪开发，相关集成代码目前暂时没有开放，如有需要请与我们联系**
+**酒精检测仪开发，相关集成代码的二次开发部分目前暂时没有开放，如有需要请与我们联系**
 
 **Alcohol detector development, related integration code is currently not open, please contact us if you need**
 
